@@ -1,1 +1,1 @@
-# Is it a leap year?
+# Check if input year is a leap year
